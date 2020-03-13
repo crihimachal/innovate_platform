@@ -1,8 +1,8 @@
 # Innovate Platform
 
-### A meeting place for real world problem solvers.
+### A meeting place for real world problem solvers using Digital Technologies.
 
-Innovate Platform is a collaborative project to be developed by developers who are passionate to build high quality platforms to enable people to have discussions and chat platforms for any company who wishes to deploy such systems.
+Innovate Platform is a collaborative project to be developed by developers who are passionate to build high quality platforms to enable platform users to have discussions and other communications of any company who wishes to deploy such a system.
 The code of the whole platform will be made public with detailed guide to enable any company to deploy such systems on its own.
 
 ## Getting started
