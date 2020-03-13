@@ -2,34 +2,48 @@
 
 A meeting place for real world problem solvers.
 
+```
+
 Innovate Platform is a collaborative project to be developed by developers who are passionate to build high quality platforms to enable people to have discussions and chat platforms for any company who wishes to deploy such systems.
 The code of the whole platform will be made public with detailed guide to enable any company to deploy such systems on its own.
 
-### Getting started
+```
+
+## Getting started
 
 You are requested to contact the manager to get the codes and help us in improving the code and adding new features till the code is made public.
 
-```
+### The road map of the development will be
 
-## The road map of the development will be
+#### Version 1 ->
 
-### Version 1 -> Develop project with basic authentication, individual profiles and discussion.
+`Develop project with basic authentication, individual profiles and discussion.`
 
-### Version 2 -> Add role based authentication with Admin management dashboard.
+#### Version 2 ->
 
-### Version 3 -> Add platform notifications to be managed by Admin
+`Add role based authentication with Admin management dashboard.`
 
-### Version 4 -> Add SMS/whatsapp auth using Nexmo and Email auth using 2FA+Gmail and real time chat rooms.
+#### Version 3 ->
 
-### Version 5 -> Adding photo/document/video send feature.
+`Add platform notifications to be managed by Admin`
 
-### Version 6 -> Adding individual notifications.
+#### Version 4 ->
 
-### Version 7 -> Adding role based document forwarding feature.
+`Add SMS/whatsapp auth using Nexmo and Email auth using 2FA+Gmail and real time chat rooms.`
 
-### To clone the repository
+#### Version 5 ->
 
-```
+`Adding photo/document/video send feature.`
+
+#### Version 6 ->
+
+`Adding individual notifications.`
+
+#### Version 7 ->
+
+`Adding role based document forwarding feature.`
+
+#### To clone the repository
 
 ## To develop the project
 
