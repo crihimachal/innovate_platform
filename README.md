@@ -9,6 +9,8 @@ The code of the whole platform will be made public with detailed guide to enable
 
 You are requested to contact the manager to get the codes and help us in improving the code and adding new features till the code is made public.
 
+```
+
 ## The road map of the development will be
 
 ### Version 1 -> Develop project with basic authentication, individual profiles and discussion.
@@ -26,6 +28,10 @@ You are requested to contact the manager to get the codes and help us in improvi
 ### Version 7 -> Adding role based document forwarding feature.
 
 ### To clone the repository
+
+```
+
+## To develop the project
 
 ```
 git clone https://github.com/crihimachal/innovate_platform.git
