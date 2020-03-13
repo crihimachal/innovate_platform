@@ -19,7 +19,11 @@ You are requested to contact the manager to get the codes and help us in improvi
 
 ### Version 4 -> Add SMS/whatsapp auth using Nexmo and Email auth using 2FA+Gmail and real time chat rooms.
 
-### Version 5 -> Adding individual notifications.
+### Version 5 -> Adding photo/document/video send feature.
+
+### Version 6 -> Adding individual notifications.
+
+### Version 7 -> Adding role based document forwarding feature.
 
 ### To clone the repository
 
